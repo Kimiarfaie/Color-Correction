@@ -49,6 +49,4 @@ After running the notebook or script, the following files will be generated insi
 - `CorrMatrix_Linear.csv` — 3×3 linear correction matrix  
 - `CorrMatrix_Poly2nd.csv` — 3×9 second-order polynomial correction matrix  
 
-A visualization of the detected ColorChecker will also appear to confirm successful segmentation.
-
 
